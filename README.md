@@ -50,7 +50,7 @@ wc.to_file("output.png")
 
 
     
-![png](output_3_0.png)
+![png](output.png)
     
 
 
